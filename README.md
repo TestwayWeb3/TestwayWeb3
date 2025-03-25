@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Testway!
 
-I'm a dedicated Web3 contributor with extensive experience in testnets, node operations, and community moderation. I’ve worked with projects like Stride, Nolus, and LayerEdge, focusing on blockchain validation, node deployment, and community engagement.
+I'm a dedicated Web3 contributor with extensive experience in testnets, node operations, and community moderation. I’ve worked with projects like Stride, and Nolus, focusing on blockchain validation, node deployment, and community engagement.
 
 #### 💼 Web3 Experience
 - **Stride**:
