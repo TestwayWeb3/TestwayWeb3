@@ -21,7 +21,7 @@ I'm a dedicated Web3 contributor with extensive experience in testnets, node ope
 - **[web3-projects](https://github.com/TestwayWeb3/web3-projects)**: Miscellaneous Web3 projects.
 
 #### 📈 Stats
-![Testway's Stats]([https://github-readme-stats.vercel.app/api?username=TestwayWeb3&show_icons=true&theme=radical&cache_seconds=3600])
+![Testway's Stats](https://github-readme-stats.vercel.app/api?username=TestwayWeb3&show_icons=true&theme=radical&cache_seconds=3600)
 
 #### 📫 Connect
 - Medium: [@testwayweb3](https://medium.com/@testwayweb3)
