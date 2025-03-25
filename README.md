@@ -24,7 +24,7 @@ I'm a dedicated Web3 contributor with extensive experience in testnets, node ope
 ![Testway's Stats](https://github-readme-stats.vercel.app/api?username=TestwayWeb3&show_icons=true&theme=radical&cache_seconds=3600)
 
 #### 📫 Connect
-- Medium: [@testwayweb3](https://medium.com/@testwayweb3)
-- Twitter: [@TestwayWeb3](https://twitter.com/TestwayWeb3)
-- Discord: [testwayweb3](https://discordapp.com/users/1002088324053340208)
-- Telegram: [@TestwayWeb3](https://t.me/TestwayWeb3)
+[![Twitter](https://img.shields.io/badge/@TestwayWeb3-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/TestwayWeb3)
+[![Discord](https://img.shields.io/badge/testwayweb3-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1002088324053340208)
+[![Telegram](https://img.shields.io/badge/@TestwayWeb3-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TestwayWeb3)
+[![Medium](https://img.shields.io/badge/@testwayweb3-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@testwayweb3)
