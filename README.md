@@ -1,4 +1,4 @@
-![Testway Logo](https://github.com/TestwayWeb3/TestwayWeb3/assets/12345678/abcde.png)
+![Testway Badge](https://img.shields.io/badge/Testway-Web3%20Contributor-4078C0?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=333333&cacheSeconds=3600&link=https://github.com/TestwayWeb3)
 
 ### 👋 Hi, I'm Testway!
 
